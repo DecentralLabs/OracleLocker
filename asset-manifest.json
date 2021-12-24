@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/OracleLocker/static/css/main.cdb6cb1e.chunk.css",
-    "main.js": "/OracleLocker/static/js/main.19206333.chunk.js",
-    "main.js.map": "/OracleLocker/static/js/main.19206333.chunk.js.map",
+    "main.js": "/OracleLocker/static/js/main.eaceda30.chunk.js",
+    "main.js.map": "/OracleLocker/static/js/main.eaceda30.chunk.js.map",
     "runtime-main.js": "/OracleLocker/static/js/runtime-main.92f98e7c.js",
     "runtime-main.js.map": "/OracleLocker/static/js/runtime-main.92f98e7c.js.map",
-    "static/js/2.3eb63042.chunk.js": "/OracleLocker/static/js/2.3eb63042.chunk.js",
-    "static/js/2.3eb63042.chunk.js.map": "/OracleLocker/static/js/2.3eb63042.chunk.js.map",
+    "static/js/2.1dde5001.chunk.js": "/OracleLocker/static/js/2.1dde5001.chunk.js",
+    "static/js/2.1dde5001.chunk.js.map": "/OracleLocker/static/js/2.1dde5001.chunk.js.map",
     "index.html": "/OracleLocker/index.html",
-    "precache-manifest.4a178e59fc2e6e69bdbebddf781a6974.js": "/OracleLocker/precache-manifest.4a178e59fc2e6e69bdbebddf781a6974.js",
+    "precache-manifest.ac49cfe8932ac4b2b1d7577b73b63591.js": "/OracleLocker/precache-manifest.ac49cfe8932ac4b2b1d7577b73b63591.js",
     "service-worker.js": "/OracleLocker/service-worker.js",
     "static/css/main.cdb6cb1e.chunk.css.map": "/OracleLocker/static/css/main.cdb6cb1e.chunk.css.map",
     "static/media/avalanche.png": "/OracleLocker/static/media/avalanche.e6e051de.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.92f98e7c.js",
-    "static/js/2.3eb63042.chunk.js",
+    "static/js/2.1dde5001.chunk.js",
     "static/css/main.cdb6cb1e.chunk.css",
-    "static/js/main.19206333.chunk.js"
+    "static/js/main.eaceda30.chunk.js"
   ]
 }

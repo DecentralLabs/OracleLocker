@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e0c11fa1b9788575bde25d10f8e73ec",
+    "revision": "470109ebd4ef00bf0a0c5d5627a633f4",
     "url": "/OracleLocker/index.html"
   },
   {
-    "revision": "31c0917ec6209e1b0792",
+    "revision": "84a5a33e62b38d15311a",
     "url": "/OracleLocker/static/css/main.cdb6cb1e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/OracleLocker/static/js/2.3a9c8308.chunk.js"
   },
   {
-    "revision": "31c0917ec6209e1b0792",
-    "url": "/OracleLocker/static/js/main.5ed5b119.chunk.js"
+    "revision": "84a5a33e62b38d15311a",
+    "url": "/OracleLocker/static/js/main.f1e035c4.chunk.js"
   },
   {
     "revision": "3c378fefd9e53926a91f",

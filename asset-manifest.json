@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/OracleLocker/static/css/main.cdb6cb1e.chunk.css",
-    "main.js": "/OracleLocker/static/js/main.01103fb1.chunk.js",
-    "main.js.map": "/OracleLocker/static/js/main.01103fb1.chunk.js.map",
-    "runtime-main.js": "/OracleLocker/static/js/runtime-main.92f98e7c.js",
-    "runtime-main.js.map": "/OracleLocker/static/js/runtime-main.92f98e7c.js.map",
-    "static/js/2.3a9c8308.chunk.js": "/OracleLocker/static/js/2.3a9c8308.chunk.js",
-    "static/js/2.3a9c8308.chunk.js.map": "/OracleLocker/static/js/2.3a9c8308.chunk.js.map",
-    "index.html": "/OracleLocker/index.html",
-    "precache-manifest.68a269d0fc7d98276bdf6bc4125b69cb.js": "/OracleLocker/precache-manifest.68a269d0fc7d98276bdf6bc4125b69cb.js",
-    "service-worker.js": "/OracleLocker/service-worker.js",
-    "static/css/main.cdb6cb1e.chunk.css.map": "/OracleLocker/static/css/main.cdb6cb1e.chunk.css.map",
-    "static/media/avalanche.png": "/OracleLocker/static/media/avalanche.e6e051de.png",
-    "static/media/piggy.jpg": "/OracleLocker/static/media/piggy.d8eb300d.jpg",
-    "static/media/App.css": "/OracleLocker/static/media/safe.211552a4.jpg"
+    "main.css": "./static/css/main.22e67cb0.chunk.css",
+    "main.js": "./static/js/main.f4a1d2ef.chunk.js",
+    "main.js.map": "./static/js/main.f4a1d2ef.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.dbd7deed.js",
+    "runtime-main.js.map": "./static/js/runtime-main.dbd7deed.js.map",
+    "static/js/2.3a9c8308.chunk.js": "./static/js/2.3a9c8308.chunk.js",
+    "static/js/2.3a9c8308.chunk.js.map": "./static/js/2.3a9c8308.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.252284429c1c5ee35e3b55ef594bffe7.js": "./precache-manifest.252284429c1c5ee35e3b55ef594bffe7.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.22e67cb0.chunk.css.map": "./static/css/main.22e67cb0.chunk.css.map",
+    "static/media/avalanche.png": "./static/media/avalanche.e6e051de.png",
+    "static/media/piggy.jpg": "./static/media/piggy.d8eb300d.jpg",
+    "static/media/App.css": "./static/media/safe.211552a4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.92f98e7c.js",
+    "static/js/runtime-main.dbd7deed.js",
     "static/js/2.3a9c8308.chunk.js",
-    "static/css/main.cdb6cb1e.chunk.css",
-    "static/js/main.01103fb1.chunk.js"
+    "static/css/main.22e67cb0.chunk.css",
+    "static/js/main.f4a1d2ef.chunk.js"
   ]
 }

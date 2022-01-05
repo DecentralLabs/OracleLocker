@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://decentrallabs.github.io/OracleLocker/static/css/main.359b7772.chunk.css",
-    "main.js": "https://decentrallabs.github.io/OracleLocker/static/js/main.b9879c81.chunk.js",
-    "main.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/main.b9879c81.chunk.js.map",
+    "main.js": "https://decentrallabs.github.io/OracleLocker/static/js/main.10716c0c.chunk.js",
+    "main.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/main.10716c0c.chunk.js.map",
     "runtime-main.js": "https://decentrallabs.github.io/OracleLocker/static/js/runtime-main.38f96ce0.js",
     "runtime-main.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/runtime-main.38f96ce0.js.map",
-    "static/js/2.1dde5001.chunk.js": "https://decentrallabs.github.io/OracleLocker/static/js/2.1dde5001.chunk.js",
-    "static/js/2.1dde5001.chunk.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/2.1dde5001.chunk.js.map",
+    "static/js/2.6599250c.chunk.js": "https://decentrallabs.github.io/OracleLocker/static/js/2.6599250c.chunk.js",
+    "static/js/2.6599250c.chunk.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/2.6599250c.chunk.js.map",
     "index.html": "https://decentrallabs.github.io/OracleLocker/index.html",
-    "precache-manifest.c9dbd7760453181aba6be07c62ae3f3d.js": "https://decentrallabs.github.io/OracleLocker/precache-manifest.c9dbd7760453181aba6be07c62ae3f3d.js",
+    "precache-manifest.6b9498e7fd980520bc0a5a62433c1b9a.js": "https://decentrallabs.github.io/OracleLocker/precache-manifest.6b9498e7fd980520bc0a5a62433c1b9a.js",
     "service-worker.js": "https://decentrallabs.github.io/OracleLocker/service-worker.js",
     "static/css/main.359b7772.chunk.css.map": "https://decentrallabs.github.io/OracleLocker/static/css/main.359b7772.chunk.css.map",
     "static/media/avalanche.png": "https://decentrallabs.github.io/OracleLocker/static/media/avalanche.e6e051de.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.38f96ce0.js",
-    "static/js/2.1dde5001.chunk.js",
+    "static/js/2.6599250c.chunk.js",
     "static/css/main.359b7772.chunk.css",
-    "static/js/main.b9879c81.chunk.js"
+    "static/js/main.10716c0c.chunk.js"
   ]
 }

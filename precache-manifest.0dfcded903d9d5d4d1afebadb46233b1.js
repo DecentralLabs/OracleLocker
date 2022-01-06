@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d510bc38d6a8be26335251fd700d98ea",
+    "revision": "d0df33d35b38266e2acd072ec31030ca",
     "url": "https://decentrallabs.github.io/OracleLocker/index.html"
   },
   {
-    "revision": "e4ea78a7316d19fca7e9",
+    "revision": "0de5f65be49404f08c63",
     "url": "https://decentrallabs.github.io/OracleLocker/static/css/main.359b7772.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://decentrallabs.github.io/OracleLocker/static/js/2.fdb35c81.chunk.js"
   },
   {
-    "revision": "e4ea78a7316d19fca7e9",
-    "url": "https://decentrallabs.github.io/OracleLocker/static/js/main.54c0f654.chunk.js"
+    "revision": "0de5f65be49404f08c63",
+    "url": "https://decentrallabs.github.io/OracleLocker/static/js/main.0638a0fb.chunk.js"
   },
   {
     "revision": "1e7b3a9335fe98f15c87",

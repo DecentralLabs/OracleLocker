@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://decentrallabs.github.io/OracleLocker/static/css/main.359b7772.chunk.css",
-    "main.js": "https://decentrallabs.github.io/OracleLocker/static/js/main.44e21d69.chunk.js",
-    "main.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/main.44e21d69.chunk.js.map",
+    "main.js": "https://decentrallabs.github.io/OracleLocker/static/js/main.534cb309.chunk.js",
+    "main.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/main.534cb309.chunk.js.map",
     "runtime-main.js": "https://decentrallabs.github.io/OracleLocker/static/js/runtime-main.38f96ce0.js",
     "runtime-main.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/runtime-main.38f96ce0.js.map",
     "static/js/2.e02102b3.chunk.js": "https://decentrallabs.github.io/OracleLocker/static/js/2.e02102b3.chunk.js",
     "static/js/2.e02102b3.chunk.js.map": "https://decentrallabs.github.io/OracleLocker/static/js/2.e02102b3.chunk.js.map",
     "index.html": "https://decentrallabs.github.io/OracleLocker/index.html",
-    "precache-manifest.9701ae70bc5587243dd5c7e3467dfa17.js": "https://decentrallabs.github.io/OracleLocker/precache-manifest.9701ae70bc5587243dd5c7e3467dfa17.js",
+    "precache-manifest.5e5de8b72cad929c86fa4060248324e5.js": "https://decentrallabs.github.io/OracleLocker/precache-manifest.5e5de8b72cad929c86fa4060248324e5.js",
     "service-worker.js": "https://decentrallabs.github.io/OracleLocker/service-worker.js",
     "static/css/main.359b7772.chunk.css.map": "https://decentrallabs.github.io/OracleLocker/static/css/main.359b7772.chunk.css.map",
     "static/media/avalanche.png": "https://decentrallabs.github.io/OracleLocker/static/media/avalanche.e6e051de.png",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.38f96ce0.js",
     "static/js/2.e02102b3.chunk.js",
     "static/css/main.359b7772.chunk.css",
-    "static/js/main.44e21d69.chunk.js"
+    "static/js/main.534cb309.chunk.js"
   ]
 }

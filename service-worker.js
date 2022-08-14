@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://decentrallabs.github.io/OracleLocker/precache-manifest.6c444fc887694b2c5e7689b0575eb74b.js"
+  "https://decentrallabs.github.io/OracleLocker/precache-manifest.6d1dd19066b45ffa2dbbab945b2f012f.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d14ca98587945cb8f5507bcf88bec72a",
+    "revision": "3a3f2e3dcc7095173767b3deb1b27c11",
     "url": "https://decentrallabs.github.io/OracleLocker/index.html"
   },
   {
